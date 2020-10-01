@@ -6,8 +6,8 @@
 
 This badge earner understands relational database concepts, can construct and execute SQL queries, and has demonstrated hands-on experience accessing data from databases using Python-based Data Science tools like Jupyter notebooks.
 
-[Detailed Course Description and Syllabus](https://www.coursera.org/learn/sql-data-science)
-
 [Course Certificate](https://www.coursera.org/account/accomplishments/certificate/QK2UXKAXFJMP)
 
 [IBM Digital Badge](https://www.youracclaim.com/badges/7d809807-293f-40db-b191-d72c68b53417)
+
+[Detailed Course Description and Syllabus](https://www.coursera.org/learn/sql-data-science)
